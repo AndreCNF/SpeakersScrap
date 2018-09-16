@@ -1,0 +1,57 @@
+yaml_version: 0.1
+curator: 'André Ferreira'
+news_sources:
+  ar magazine:
+    language: 'en'
+    link: 'http://magazine.ar.fchampalimaud.org/'
+  Diario de Noticias:
+    language: 'pt'
+    link: 'https://www.dn.pt/'
+  Euronews:
+    language: 'en'
+    link: 'http://www.euronews.com/'
+  Exame:
+    language: 'pt'
+    link: 'http://visao.sapo.pt/exame'
+  Expresso:
+    language: 'pt'
+    link: 'https://expresso.sapo.pt/'
+  Jornal de Negocios:
+    language: 'pt'
+    link: 'http://www.jornaldenegocios.pt/noticias-no-minuto'
+  Jornal de Noticias:
+    language: 'pt'
+    link: 'https://www.jn.pt/'
+  Observador:
+    language: 'pt'
+    link: 'https://observador.pt/'
+  MAGG:
+    language: 'pt'
+    link: 'https://magg.pt/'
+  Noticias ao Minuto:
+    language: 'pt'
+    link: 'https://www.noticiasaominuto.com/'
+  ULisboa:
+    language: 'pt'
+    link: 'https://www.ulisboa.pt/noticias'
+  Publico:
+    language: 'pt'
+    link: 'https://www.publico.pt/'
+  Tecnico:
+    language: 'pt'
+    link: 'https://tecnico.ulisboa.pt/pt/noticias/'
+  TVI24:
+    language: 'pt'
+    link: 'http://www.tvi24.iol.pt/'
+  RTP:
+    language: 'pt'
+    link: 'https://www.rtp.pt/'
+  Sapo:
+    language: 'pt'
+    link: 'https://www.sapo.pt/'
+  SIC Noticias:
+    language: 'pt'
+    link: 'https://sicnoticias.sapo.pt/'
+  Shifter:
+    language: 'pt'
+    link: 'https://shifter.sapo.pt/'
