@@ -1,5 +1,6 @@
 yaml_version: 0.1
 curator: 'André Ferreira'
+keywords: ''
 news_sources:
   ar magazine:
     language: 'en'
