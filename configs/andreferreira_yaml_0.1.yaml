@@ -29,21 +29,15 @@ news_sources:
   MAGG:
     language: 'pt'
     link: 'https://magg.pt/'
+  MIT Tecnology Review:
+    language: 'en'
+    link: 'https://www.technologyreview.com/'
   Noticias ao Minuto:
     language: 'pt'
     link: 'https://www.noticiasaominuto.com/'
-  ULisboa:
-    language: 'pt'
-    link: 'https://www.ulisboa.pt/noticias'
   Publico:
     language: 'pt'
     link: 'https://www.publico.pt/'
-  Tecnico:
-    language: 'pt'
-    link: 'https://tecnico.ulisboa.pt/pt/noticias/'
-  TVI24:
-    language: 'pt'
-    link: 'http://www.tvi24.iol.pt/'
   RTP:
     language: 'pt'
     link: 'https://www.rtp.pt/'
@@ -56,3 +50,15 @@ news_sources:
   Shifter:
     language: 'pt'
     link: 'https://shifter.sapo.pt/'
+  Tecnico:
+    language: 'pt'
+    link: 'https://tecnico.ulisboa.pt/pt/noticias/'
+  TVI24:
+    language: 'pt'
+    link: 'http://www.tvi24.iol.pt/'
+  ULisboa:
+    language: 'pt'
+    link: 'https://www.ulisboa.pt/noticias'
+  Visao:
+    language: 'pt'
+    link: 'http://visao.sapo.pt/'
